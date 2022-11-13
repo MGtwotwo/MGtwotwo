@@ -1,7 +1,9 @@
-### Hi there 👋
-# I'm MG22
+# Hi there 👋
+![Banner]()
+## I'm **MG22**
+#### Currently working on small projects using the Source SDK 2013 by Valve Software. [Repo](https://github.com/ValveSoftware/source-sdk-2013)
 
-> I'm currently working on small projects using the Source SDK 2013 [https://github.com/ValveSoftware/source-sdk-2013]
+######>Profile picture: Nujabes/Fat Jon - Departure album cover
 
 <!--
 **MGtwotwo/MGtwotwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
