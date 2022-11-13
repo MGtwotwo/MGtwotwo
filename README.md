@@ -1,7 +1,7 @@
 # Hi there 👋
 ![Banner]()
 ## I'm **MG22**
-#### Currently working on small projects using the Source SDK 2013 by Valve Software. [Repo](https://github.com/ValveSoftware/source-sdk-2013)
+#### Currently working on small projects using the Source SDK 2013 by Valve Software. [Repo link](https://github.com/ValveSoftware/source-sdk-2013)
 
 > ##### Profile picture: Nujabes/Fat Jon - Departure album cover
 
