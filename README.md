@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm MG22
 
-> I'm currently working on small projects using the Source SDK 2013
+> I'm currently working on small projects using the Source SDK 2013 [https://github.com/ValveSoftware/source-sdk-2013]
 
 <!--
 **MGtwotwo/MGtwotwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
