@@ -1,5 +1,4 @@
 ![Banner](bannergithub.PNG)
-## I'm **MG22**
 #### Working on various small projects
 
 > ##### Profile picture: Nujabes/Fat Jon - Departure album cover
